@@ -12,4 +12,4 @@ The Design, HTML and CSS are not mine but belong to [Jonas Schmedtmann](https://
 
 ### Live URL
 
-https://calythoms.github.io/forkify-course-project/
+https://forkify-calythoms.netlify.app/
